@@ -1,6 +1,7 @@
 # LearnGithub
-JustForTest
+JustForTest		 
 Let us see what will happen.
+<<<<<<< HEAD
 
 ## 支持功能
 - **支持长连接**
@@ -16,3 +17,9 @@ Let us see what will happen.
 ![测试](file:///C:/Users/acer/Pictures/Saved%20Pictures/a.jpg)
 
 
+=======
+1.支持长连接
+2.支持Json序列化
+3.支持异步调用
+4.支持远程调用
+>>>>>>> origin/master
