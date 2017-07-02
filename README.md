@@ -14,7 +14,7 @@ Let us see what will happen.
 
 
 
-![测试](file:///C:/Users/acer/Pictures/Saved%20Pictures/a.jpg)
+![](https://ooo.0o0.ooo/2017/07/02/59586370b3625.jpg)
 
 
 
