@@ -75,9 +75,15 @@
 	</pre>
 
 ### 结果
-![](file:///C:/Users/acer/Pictures/CodePicture/RPC%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.png)
- 
+![Markdown](http://i4.piimg.com/1949/9f36241928a7f866.png)
 
+
+
+#架构图
+[![架构图](http://i4.piimg.com/1949/213f80d1636e6930.png)]
+
+
+ 
 
 
 
